@@ -1,0 +1,2 @@
+# vacuum-file-mover
+Finds a file on your computer from a list of files and moves the files found to a different folder, deleting it from the folder where it was found.  This was written primarily to help in a legal matter.  The opposite party claimed privilege over files, they claim were inadvertently produced as a result we were forced to delete these files.   However before you delete the files you have to review them to make sure that the party is asserting proper privilege.  
